@@ -59,7 +59,7 @@ Ext.define('App1.view.main.JustinForm', {
                     }
                 },
                 {
-                    emptyText : 'Username must be unique.'
+                    emptyText : 'Username must be bloody unique.'
                 },
                 {
                     emptyText : 'ex: me@somewhere.com',
